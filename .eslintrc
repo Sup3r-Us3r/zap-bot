@@ -1,0 +1,6 @@
+{
+  "extends": "@sup3r-us3r/eslint-config/react",
+  "rules": {
+    "no-useless-constructor": "off",
+  },
+}
