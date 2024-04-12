@@ -1,14 +1,19 @@
 {
   "name": "whatsapp-cloud-bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This application was made in Node.js + TypeScript, it is a BOT for WhatsApp, which communicates with the official WhatsApp Business API, it simulates a barbershop scheduling flow using mocked data.",
+  "main": "build/server.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "build": "tsup src --out-dir build",
     "lint": "eslint \"src/**/*.{js,ts}\" --fix"
   },
-  "keywords": [],
+  "keywords": [
+    "zap-bot",
+    "chat-bot",
+    "whatsapp",
+    "whatsapp-business"
+  ],
   "author": "Mayderson Mello",
   "license": "MIT",
   "devDependencies": {
