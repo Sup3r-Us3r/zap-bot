@@ -16,6 +16,10 @@ This application was made in Node.js + TypeScript, it is a Bot for WhatsApp, whi
 
 ![project-architecture-overview](.github/docs/flow/zap-bot-flow.png)
 
+## Preview
+
+https://github.com/Sup3r-Us3r/zap-bot/assets/22561893/cd72450f-1ec8-4a89-9648-6e03660edda4
+
 <details>
 <summary>Facebook Developers Setup</summary>
 
