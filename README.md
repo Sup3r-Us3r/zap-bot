@@ -9,6 +9,8 @@ This application was made in Node.js + TypeScript, it is a Bot for WhatsApp, whi
 - [x] [Fastify](https://fastify.dev)
 - [x] [WhatsApp Business API](https://business.whatsapp.com/products/business-platform)
 - [x] [PostgreSQL](https://www.postgresql.org)
+- [x] [Docker](https://www.docker.com)
+- [x] [Docker Compose](https://docs.docker.com/compose)
 - [x] [Prisma](https://www.prisma.io)
 - [x] [Ngrok](https://ngrok.com)
 
